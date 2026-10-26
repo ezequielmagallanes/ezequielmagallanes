@@ -1,6 +1,6 @@
 # Hello, I'm Ezequiel Magallanes
 
-I’m a Computer Science senior at Sacramento State and an IT Assistant with hands-on experience in desktop support, hardware repair, system imaging, networking, Active Directory, PowerShell, and technical customer support. I enjoy solving practical technology problems and building software that makes complex work easier.
+I’m a Computer Science senior at Sacramento State and an IT Assistant with hands on experience in desktop support, hardware repair, system imaging, networking, Active Directory, PowerShell, and technical customer support. I enjoy solving practical technology problems and building software that makes complex work easier.
 
 - B.S. in Computer Science, Sacramento State — Expected 2027
 - IT Assistant at Associated Students of California State University, Sacramento
